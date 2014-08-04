@@ -9,3 +9,5 @@ It's purpose is to make use of the PIR sensor with only a few components to ease
   * LM358 Manual: http://www.ti.com/lit/ds/symlink/lm158-n.pdf
 The D203S manual has an example using the LM324, but it includes a lot of components we might not need on lower voltages like 3.3v.
   * Project package with Eagle schematics and Arduino Teensy Sketch
+
+![Schematics](https://raw.githubusercontent.com/zerblatt007/PIRMotionDetector/master/motiondetector.png)
